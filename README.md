@@ -51,4 +51,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 <img src="./images/dark-chat.png" alt="" width="100%"/>
 <img src="./images/light-chat.png" alt="" width="100%"/>
 
-link:next-chat-demo-two.vercel.app
+url - https://nextgpt-old-xyz.vercel.app/auth/login
